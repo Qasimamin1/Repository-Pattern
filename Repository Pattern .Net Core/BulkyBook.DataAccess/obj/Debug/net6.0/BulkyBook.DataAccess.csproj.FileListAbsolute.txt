@@ -1,0 +1,34 @@
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+E:\N Tier\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+E:\N Tier\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+E:\N Tier\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+E:\N Tier\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+E:\N Tier\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+E:\N Tier\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+E:\N Tier\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+E:\Repository Pattern .Net Core\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
